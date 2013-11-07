@@ -1,0 +1,7 @@
+parameters:
+#    cl_belgian_national_number.example.class: CL\BelgianNationalNumberBundle\Example
+
+services:
+#    cl_belgian_national_number.example:
+#        class: %cl_belgian_national_number.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
