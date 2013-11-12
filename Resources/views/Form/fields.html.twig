@@ -1,0 +1,7 @@
+{% block belgian_national_number_widget %}
+    {% spaceless %}
+        {{ form_widget(form.inversed_date) }}
+        {{ form_widget(form.daily_counter) }}
+        {{ form_widget(form.control_digit) }}
+    {% endspaceless %}
+{% endblock %}
