@@ -1,0 +1,14 @@
+{
+    "name": "cl/belgian-nationa-number-bundle",
+    "description": "A Symfony2 Bundle which validate belgian national numbers.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Julien Fastré",
+            "email": "julien.fastre@champs-libres.coop"
+        }
+    ],
+    "require": {
+
+    }
+}
